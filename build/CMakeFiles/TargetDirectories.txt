@@ -1,0 +1,3 @@
+/home/amaldev/Opencv_OD/build/CMakeFiles/rebuild_cache.dir
+/home/amaldev/Opencv_OD/build/CMakeFiles/edit_cache.dir
+/home/amaldev/Opencv_OD/build/CMakeFiles/main.dir
